@@ -59,9 +59,8 @@ public class NoteService {
     }
 
 
-    @PostConstruct
+/*    @PostConstruct
     public void init() {
-//        note.hello();
         System.out.println(noteRepository.getClass());
-    }
+    }*/
 }
